@@ -1,4 +1,7 @@
 This is a master Release
-We will try out branching and merging concepts in GitHub
+<Feature 1 - Overwrite this line>
 Feature 2 Branch: Adding a line in-between
 Currently in feature 2 branch
+
+Feature 1 - Added a new line.
+
