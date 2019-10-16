@@ -1,6 +1,5 @@
+HOT FIX - Index files
 This is a master Release
 We will try out branching and merging concepts in GitHub
 Feature 2 Branch: Adding a line in-between
 Currently in feature 2 branch
-
-=== Updated from Hotfix ======
