@@ -4,3 +4,4 @@ Feature 2 Branch: Adding a line in-between
 Currently in feature 2 branch
 
 Feature 1 - Added a new line.
+Feature 1 - Added another line
