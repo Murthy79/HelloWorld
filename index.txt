@@ -9,3 +9,7 @@ Feature 1 - Added a new line.
 
 === Updated from Hotfix ======
 
+=======
+Feature 1 - Added a new line.
+Feature 1 - Added another line
+
